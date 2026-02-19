@@ -26,7 +26,7 @@ jobs:
 
           echo "Checking OS details..."
           uname -a
-# -------------------------
+      # -------------------------
       # Stage 2 — BUild with commit ID as TAG
       # -------------------------
 
